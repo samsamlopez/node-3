@@ -11,3 +11,4 @@ services:
       - node3db:/var/lib/postgresql/data
 volumes:
   node3db:
+ 
